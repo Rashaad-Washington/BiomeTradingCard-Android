@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341170152123",
+    "firebase_url": "https://biome-trading-card-default-rtdb.firebaseio.com",
+    "project_id": "biome-trading-card",
+    "storage_bucket": "biome-trading-card.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341170152123:android:d9cbb857b50019310abf9e",
+        "android_client_info": {
+          "package_name": "com.biometradingcardcompany.biometradingcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341170152123-qv6fugep1128poltidkdh94gvmfr1n46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0oTW6xFhN-tm93ye9sCsmBA7RlAgV1Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341170152123-qv6fugep1128poltidkdh94gvmfr1n46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
