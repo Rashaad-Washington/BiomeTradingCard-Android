@@ -36,11 +36,11 @@ public class Biome extends AppCompatActivity {
                         case R.id.nav_home:
                             selectedFragment = new HomeFragment();
                             break;
-                        case R.id.nav_favorites:
-                            selectedFragment = new FavoritesFragment();
+                        case R.id.nav_collection:
+                            selectedFragment = new CollectionFragment();
                             break;
-                        case R.id.nav_search:
-                            selectedFragment = new SearchFragment();
+                        case R.id.nav_scan:
+                            selectedFragment = new ScanFragment();
                             break;
                     }
 
