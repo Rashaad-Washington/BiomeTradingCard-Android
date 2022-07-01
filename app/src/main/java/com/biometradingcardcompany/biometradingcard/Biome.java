@@ -1,6 +1,5 @@
 package com.biometradingcardcompany.biometradingcard;
-//tyu
-//I just added this line (after I made my branch)
+
 import android.os.Bundle;
 import android.view.MenuItem;
 
