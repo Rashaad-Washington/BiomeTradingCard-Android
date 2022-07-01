@@ -1,10 +1,5 @@
 package com.biometradingcardcompany.biometradingcard;
 
-//sad
-//sad
-//asd
-
-//asd
 import android.os.Bundle;
 import android.view.MenuItem;
 
