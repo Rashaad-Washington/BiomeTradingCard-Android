@@ -1,6 +1,5 @@
 package com.biometradingcardcompany.biometradingcard;
 
-//Test Branch
 import android.os.Bundle;
 import android.view.MenuItem;
 
