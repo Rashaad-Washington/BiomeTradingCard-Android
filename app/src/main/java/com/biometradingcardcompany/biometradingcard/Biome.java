@@ -1,5 +1,5 @@
 package com.biometradingcardcompany.biometradingcard;
-
+//tyu
 //I just added this line (after I made my branch)
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -11,6 +11,7 @@ import androidx.fragment.app.Fragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class Biome extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
