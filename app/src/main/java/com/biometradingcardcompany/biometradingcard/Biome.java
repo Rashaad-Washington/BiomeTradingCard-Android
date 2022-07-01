@@ -1,5 +1,16 @@
 package com.biometradingcardcompany.biometradingcard;
 
+//Hello
+//asdasdadsRashaad
+//asdasdasdRashaad
+
+//asdasdasdRashaad
+
+
+
+
+
+
 import android.os.Bundle;
 import android.view.MenuItem;
 
